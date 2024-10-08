@@ -15,14 +15,14 @@
 		"introduction": "¡¡¡Hola!!! I’m Alex! Welcome to my empire! I hope we have a great time together :3",
 		
 		"neutralHello": "Hola :3",
-		"neutralLetsHearIt": [“What do you want, bestie?","Anything I can help with?","I’m listening…"],
+		"neutralLetsHearIt": ["What do you want, bestie?","Anything I can help with?","I’m listening…"],
 		"neutralNo": ["I can’t right now, sorry","I cannot accept this","No, gracias"],
 		"neutralYes": ["¡Perfecto!","I agree :3","I like that!"],
 
 		"hateHello": "Oh, eres tú… >:(",
-		"hateLetsHearIt": ["C'mon.. I don’t have all day",”Ugh, not this again…”,”What now!?”],
-		"hateNo": ["No. Simplemente no",”Absolutely not”,”Get out! >:C”],
-		"hateYes": ["Hmmm… Ugh, fine!",”Wait that’s actually really cool!”,”I’ll accept that… for now”],
+		"hateLetsHearIt": ["C'mon.. I don’t have all day","Ugh, not this again…","What now!?"],
+		"hateNo": ["No. Simplemente no","Absolutely not","Get out! >:C"],
+		"hateYes": ["Hmmm… Ugh, fine!","Wait that’s actually really cool!","I’ll accept that… for now"],
 		
 		"afterPeace": "GRACIAS! I was about to collapse in like 2 or 3 turns",
 		"tradeRequest": "Olle bestie, do you like this?",
@@ -31,11 +31,11 @@
 		"innerColor": [218,9,20],
 		
 		"uniqueName": "Andalusian Legacy",
-		"uniques": ["[+50 Gold] for discovering a Natural Wonder (bonus enhanced to [+250 Gold] if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+50]% Yield from every [Natural Wonder]","[+10]% Production [in all cities]”,"[+1 Gold] from each Trade Route"]
+		"uniques": ["[+50 Gold] for discovering a Natural Wonder (bonus enhanced to [+250 Gold] if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+50]% Yield from every [Natural Wonder]","[+10]% Production [in all cities]","[+1 Gold] from each Trade Route"]
 
 		"cities": ["Alexcity","Gadir","Villase","Huevos","Malaca","Curdaba","Javién","Alhambra","Al-Mati","Portobello",
 			"Ebroquivir","San Faldón","Elmore","Ninio","Blinky Blonky","T.I.A.","Barselona","Furbociti","Soleana",
 			"Ville Secrète","Quijada","Guada","Iosana","Arcos","New Vegas","Rangu","Gravity Falls","Mario Kart DS",
-			”Craftworld","Alcazar","Bunkum","Abd al-Rahmān","Kmonready","Mobius","Xerez"]
+			"Craftworld","Alcazar","Bunkum","Abd al-Rahmān","Kmonready","Mobius","Xerez"]
 	}
 ]
