@@ -1,38 +1,41 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
+		"name": "Alexland",
+		"leaderName": "Alex the XIII",
+		"adjective": ["Alexlandian"],
+		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "We come in peace!",
+		"startIntroPart1": "Alexland, a nation of",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "I have planned this for a long time >:3c… ¡Prepárate para la batalla!",
+		"attacked": "Yo! Why? I haven’t done anything to you… at least not yet. Anyways, prepare to die now >:3",
+		"defeated": "Welp, time to stop playing this game for today. Go and conquer the entire world now, or something. Adios :3",
+		"introduction": "¡¡¡Hola!!! I’m Alex! Welcome to my empire! I hope we have a great time together :3",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hola :3",
+		"neutralLetsHearIt": [“What do you want, bestie?","Anything I can help with?","I’m listening…"],
+		"neutralNo": ["I can’t right now, sorry","I cannot accept this","No, gracias"],
+		"neutralYes": ["¡Perfecto!","I agree :3","I like that!"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Oh, eres tú… >:(",
+		"hateLetsHearIt": ["C'mon.. I don’t have all day",”Ugh, not this again…”,”What now!?”],
+		"hateNo": ["No. Simplemente no",”Absolutely not”,”Get out! >:C”],
+		"hateYes": ["Hmmm… Ugh, fine!",”Wait that’s actually really cool!”,”I’ll accept that… for now”],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "GRACIAS! I was about to collapse in like 2 or 3 turns",
+		"tradeRequest": "Olle bestie, do you like this?",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [99,3,86],
+		"innerColor": [218,9,20],
+		
+		"uniqueName": "Andalusian Legacy",
+		"uniques": ["[+50 Gold] for discovering a Natural Wonder (bonus enhanced to [+250 Gold] if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+50]% Yield from every [Natural Wonder]","[+10]% Production [in all cities]”,"[+1 Gold] from each Trade Route"]
+
+		"cities": ["Alexcity","Gadir","Villase","Huevos","Malaca","Curdaba","Javién","Alhambra","Al-Mati","Portobello",
+			"Ebroquivir","San Faldón","Elmore","Ninio","Blinky Blonky","T.I.A.","Barselona","Furbociti","Soleana",
+			"Ville Secrète","Quijada","Guada","Iosana","Arcos","New Vegas","Rangu","Gravity Falls","Mario Kart DS",
+			”Craftworld","Alcazar","Bunkum","Abd al-Rahmān","Kmonready","Mobius","Xerez"]
 	}
 ]
