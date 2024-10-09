@@ -17,6 +17,7 @@
 	{
 		"name": "Alexcity Lynxes",
 		"unitType": "Gunpowder",
+		"uniqueTo": "Alexland",
 		"replaces": "Infantry"
 		"movement": 3,
 		"strength": 75,
