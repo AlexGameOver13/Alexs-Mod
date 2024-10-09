@@ -13,6 +13,8 @@
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 3
 	},
+		
+	{
 		"name": "Alexcity Lynxes",
 		"unitType": "Gunpowder",
 		"replaces": "Infantry"
@@ -24,5 +26,5 @@
 		"obsoleteTech": "Mobile Tactics",
 		"promotions": ["Woodsman","March"]
 		"attackSound": "shot"
-	},
+	}
 ]
