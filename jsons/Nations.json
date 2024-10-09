@@ -27,8 +27,8 @@
 		"afterPeace": "GRACIAS! I was about to collapse in like 2 or 3 turns",
 		"tradeRequest": "Olle bestie, do you like this?",
 
-		"outerColor": [99,3,86],
-		"innerColor": [218,9,20],
+		"outerColor": [218,9,20],
+		"innerColor": [99,3,86],
 		
 		"uniqueName": "Andalusian Legacy",
 		"uniques": ["[+50 Gold] for discovering a Natural Wonder (bonus enhanced to [+250 Gold] if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+50]% Yield from every [Natural Wonder]","[+10]% Production [in all cities]","[+1 Gold] from each Trade Route"]
