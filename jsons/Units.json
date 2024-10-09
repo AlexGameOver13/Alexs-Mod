@@ -1,17 +1,28 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
-	}
+		"name": "Blinky Blonky",
+		"unitType": "Civilian",
+		"uniqueTo": "Alexland",
+		"replaces": "Great General",
+		"uniques": [
+            "Empire enters a [10]-turn Golden Age <by consuming this unit>",
+            "[+15]% Strength bonus for [Military] units within [3] tiles",
+		"All adjacent units heal [+15] HP when healing", 
+		"Can instantly construct a [Academy] improvement <by consuming this unit>", 
+		"Can be earned through combat",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 3
+	},
+		"name": "Alexcity Lynxes",
+		"unitType": "Gunpowder",
+		"replaces": "Infantry"
+		"movement": 3,
+		"strength": 75,
+		"cost": 375,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Mechanized Infantry",
+		"obsoleteTech": "Mobile Tactics",
+		"promotions": ["Woodsman","March"]
+		"attackSound": "shot"
+	},
 ]
