@@ -6,8 +6,8 @@
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Alexland, a nation of",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Buenas, queen Alex of Alexland! You've inhereted the land owned by great Empires, Caliphates and Kingdoms, leaving a rich culture behind. From the highs of Captain's Mountain to the low Guada Valley, through the harsh Nala Desert to the cold highs of Sierra Nevada, and sandwicthed between the Sun Coast and the Moon Coast, your lands are filled with wonder and magic!",
+		"startIntroPart2": "My queen, stand up and make an empire of your own. Claim lands and freedom to your people! For a free Alexland and Humanity! Buena Suerte. Also don't forget to be silly sometimes :3",
 		
 		"declaringWar": "I have planned this for a long time >:3c… ¡Prepárate para la batalla!",
 		"attacked": "Yo! Why? I haven’t done anything to you… at least not yet. Anyways, prepare to die now >:3",
@@ -31,11 +31,11 @@
 		"innerColor": [99,3,86],
 		
 		"uniqueName": "Andalusian Legacy",
-		"uniques": ["[+50 Gold] for discovering a Natural Wonder (bonus enhanced to [+250 Gold] if first to discover it)","[+1 Happiness] for every known Natural Wonder", "[+50]% Yield from every [Natural Wonder]","[+10]% Production [in all cities]","[+1 Gold] from each Trade Route"]
+		"uniques": "["[+10]% Yield from every [Wonder]","[+2 Gold, +5 Production] from each Trade Route"]",
 
 		"cities": ["Alexcity","Gadir","Villase","Huevos","Malaca","Curdaba","Javién","Alhambra","Al-Mati","Portobello",
 			"Ebroquivir","San Faldón","Elmore","Ninio","Blinky Blonky","T.I.A.","Barselona","Furbociti","Soleana",
 			"Ville Secrète","Quijada","Guada","Iosana","Arcos","New Vegas","Rangu","Gravity Falls","Mario Kart DS",
-			"Craftworld","Alcazar","Bunkum","Abd al-Rahmān","Kmonready","Mobius","Xerez"]
+			"Craftworld","Alcazar","Bunkum","Abd al-Rahmān","Kmonready","César","Xerez"]
 	}
 ]
