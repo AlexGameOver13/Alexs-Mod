@@ -31,7 +31,7 @@
 		"innerColor": [99,3,86],
 		
 		"uniqueName": "Andalusian Legacy",
-		"uniques": ["[+2 Gold, +3 Culture, +5 Production] from each Trade Route","[+10]% Science <during a Golden Age>"],
+		"uniques": ["[+2 Gold, +3 Culture, +5 Production] from each Trade Route","[+10]% [Science] <during a Golden Age>"],
 
 		"cities": ["Alexcity","Gadir","Villase","Huevos","Malaca","Curdaba","Javién","Alhambra","Al-Mati","Portobello",
 			"Ebroquivir","San Faldón","Elmore","Ninio","Blinky Blonky","T.I.A.","Barselona","Furbociti","Soleana",
