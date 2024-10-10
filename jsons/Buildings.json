@@ -8,7 +8,7 @@
 		"culture": 10,
 		"science": 10,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>"],
 		"requiredTech": "Horseback Riding"
 	}
 ]
