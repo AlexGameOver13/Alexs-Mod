@@ -2,11 +2,11 @@
 	{
 		"name": "Pokémon League",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 500,
-		"happiness": 10,
-		"culture": 5,
-		"science": 5,
+		"uniqueTo": "Alexland",
+		"cost": 550,
+		"happiness": 15,
+		"culture": 10,
+		"science": 10,
 		"isNationalWonder": true,
 		"requiredBuildingInAllCities": "Colosseum",
 		"requiredTech": "Horseback Riding"
