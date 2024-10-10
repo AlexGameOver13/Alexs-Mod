@@ -31,7 +31,7 @@
 		"innerColor": [99,3,86],
 		
 		"uniqueName": "Andalusian Legacy",
-		"uniques": ["[+2 Gold, +5 Production] from each Trade Route","[+15] % Yield from every [Wonder] [in the Capital]"],
+		"uniques": ["[+2 Gold, +5 Production] from each Trade Route","[+15]% Yield from every [Wonder] [in the Capital]"],
 
 		"cities": ["Alexcity","Gadir","Villase","Huevos","Malaca","Curdaba","Javién","Alhambra","Al-Mati","Portobello",
 			"Ebroquivir","San Faldón","Elmore","Ninio","Blinky Blonky","T.I.A.","Barselona","Furbociti","Soleana",
