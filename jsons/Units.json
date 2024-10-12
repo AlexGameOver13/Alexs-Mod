@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Blinky Blonky",
+		"name": "Alex",
 		"unitType": "Civilian",
 		"uniqueTo": "Alexland",
 		"replaces": "Great General",
@@ -15,12 +15,12 @@
 	},
 		
 	{
-		"name": "Alexcity Lynxes",
+		"name": "The Blinky Blonky Army",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Alexland",
 		"replaces": "Infantry"
 		"movement": 3,
-		"strength": 75,
+		"strength": 80,
 		"cost": 375,
 		"requiredTech": "Plastics",
 		"upgradesTo": "Mechanized Infantry",
