@@ -17,7 +17,7 @@ NationIcons/Alexland
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
-  index: -1
+  index: 0
 UnitIcons/Xela
   rotate: false
   xy: 222, 4
