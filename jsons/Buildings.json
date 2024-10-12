@@ -4,11 +4,11 @@
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Alexland",
 		"cost": 550,
-		"happiness": 15,
-		"culture": 10,
-		"science": 10,
+		"happiness": 20,
+		"culture": 15,
+		"science": 15,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>"],
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [35] per owned city", "Empire enters golden age"],
 		"requiredTech": "Horseback Riding"
 	}
 ]
