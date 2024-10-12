@@ -4,7 +4,7 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Breeders
+BuildingIcons/Pokémon League
   rotate: false
   xy: 112, 4
   size: 100, 100
@@ -18,14 +18,14 @@ NationIcons/Alexland
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/Xela
   rotate: false
   xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Phasers
+UnitIcons/The Blinky Blonky Army
   rotate: false
   xy: 328, 4
   size: 100, 100
