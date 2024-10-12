@@ -8,7 +8,7 @@
 		"culture": 15,
 		"science": 15,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [35] per owned city", "Empire enters golden age"],
+		"uniques": ["Only available <if [Colosseum] is constructed in all [non-[Puppeted]] cities>","Cost increases by [35] per owned city","Empire enters golden age"],
 		"requiredTech": "Horseback Riding"
 	}
 ]
