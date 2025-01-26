@@ -3,7 +3,7 @@
 		"name": "Alexland",
 		"leaderName": "Alex the XIII",
 		"adjective": ["Alexlandian"],
-		"startBias": ["Avoid [Tundra, Desert]"],
+		"startBias": ["Avoid [Tundra], Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Buenas, queen Alex of Alexland! You've inhereted the land owned by great Empires, Caliphates and Kingdoms, leaving a rich culture behind. From the highs of Captain's Mountain to the low Guada Valley, through the harsh Nala Desert to the cold highs of Sierra Nevada, and sandwicthed between the Sun Coast and the Moon Coast, your lands are filled with wonder and magic!",
@@ -31,7 +31,7 @@
 		"innerColor": [99,3,86],
 		
 		"uniqueName": "Andalusian Legacy",
-		"uniques": ["[+2 Gold, +3 Culture, +3 Science, +5 Production] from each Trade Route"],
+		"uniques": ["[+1 Culture, +1 Science] from each Trade Route"],
 
 		"cities": ["Alexcity","Gadir","Villase","Huevos","Malaca","Curdaba","Javién","Alhambra","Al-Mati","Portobello",
 			"Ebroquivir","San Faldón","Elmore","Ninio","Gnomestan","Tiabañez","Barselona","Furbociti","Soleana",
